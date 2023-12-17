@@ -1,0 +1,2 @@
+# learnjs
+learning JS noob
